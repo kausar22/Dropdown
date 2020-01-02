@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">dropdown</string>
+    <string-array name="Division">
+        <item>Select Division</item>
+        <item>Dhaka</item>
+        <item>Chittagong</item>
+
+    </string-array>
+</resources>
